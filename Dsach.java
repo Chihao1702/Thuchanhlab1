@@ -8,7 +8,7 @@ public class Dsach {
 	Xe v = new Xe();
 	Scanner sc = new Scanner(System.in);
 	public void Them() {
-		System.out.println("nhap chu tai xe:"); v.chuTaiXe=sc.nextLine();
+	/*	System.out.println("nhap chu tai xe:"); v.chuTaiXe=sc.nextLine();
 		System.out.println("nhap loai xe:");
 		v.setLoaiXe(sc.nextLine());
 		System.out.println("nhap dung tich:");
